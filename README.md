@@ -56,7 +56,7 @@
    - ✔️ Student Affairs website
 
 
-### Connect with Me :
+### Contact me :
 
 - [<img src="https://img.shields.io/badge/LinkedIn-grey?style=flat&logo=linkedin"  />](https://www.linkedin.com/in/mostafa-omar-178950249/)
 - [<img src="https://img.shields.io/badge/Twitter-grey?style=flat&logo=twitter"  />](https://twitter.com/MostafaOmar287)
