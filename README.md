@@ -1,5 +1,5 @@
 
-<img width="220" align="right" src="https://media.tenor.com/AQecc2g8uuAAAAAC/duck-dance.gif">
+<img width="120" align="right" src="https://media.tenor.com/AQecc2g8uuAAAAAC/duck-dance.gif">
 
 
 <h3 align="center">
