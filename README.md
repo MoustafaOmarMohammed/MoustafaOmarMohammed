@@ -22,7 +22,7 @@
 
 <img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="60" height="60"/>
 
-<img src="https://icons8.com/icon/POF83Y0kfstA/kpi" width="60" height="60"/>
+<img src="https://icons8.com/icon/POF83Y0kfstA/kpi.png" width="60" height="60"/>
 
 <img src="https://img.icons8.com/color/96/business-report.png" width="60" height="60"/>
 
