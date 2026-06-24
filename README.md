@@ -26,9 +26,6 @@
 
 </p>
 
-<p align="center">
-Python • Power BI • SQL • Visualization • Business
-</p>
 
 ---
 
@@ -42,11 +39,10 @@ Python • Power BI • SQL • Visualization • Business
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
-</p>
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
+</div>
 ---
 
 ## 🌐 Connect
