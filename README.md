@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# Mostafa Omar Kotb 👋
+# Mostafa Omar Mohamed 👋
 
 ### Data Analyst | Power BI Developer
 
