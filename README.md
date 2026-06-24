@@ -47,22 +47,18 @@
 </div>
 ---
 
-## 🌐 Connect
+## ## 🌐 Connect
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
-    
-   <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)"/>
-  </a>
-
-  <a href="YOUR_KAGGLE">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+  <a href="YOUR_LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
 
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
 </p>
+
 
 ---
 
