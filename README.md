@@ -17,7 +17,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,Power BI,postgres,r&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,mysql,PowerBI,postgres,r&theme=dark" />
 
 <br><br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
