@@ -52,7 +52,7 @@
 <p align="center">
   <a href="YOUR_LINKEDIN">
     
-   <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white](https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)"/>
+   <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000)"/>
   </a>
 
   <a href="YOUR_KAGGLE">
