@@ -15,7 +15,7 @@
 
 ---
 
-##  Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
 
@@ -37,14 +37,14 @@
 
 ---
 
-##  About Me
+## 🧠 About Me
 
 *  B.Sc. in Computer Science & Artificial Intelligence, Cairo University
 *  Artificial Intelligence Graduate
 
 ---
 
-##  GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MoustafaOmarMohammed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
@@ -52,7 +52,7 @@
 </div>
 ---
 
-## Connect
+## 🌍 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/mostafaomar-k">
