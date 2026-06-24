@@ -1,4 +1,9 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:7C3AED&height=170&section=header&text=Mostafa%20Omar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&pause=1000&color=2E9EF7&center=true&vCenter=true&width=620&lines=Data+Analyst+%7C+BI+Developer;Turning+Raw+Data+Into+Decisions;Power+BI+%E2%80%A2+SQL+%E2%80%A2+Python+%E2%80%A2+ML" />
+</div>
+
+<div align="center">
 
 # Hi, I'm Mostafa Omar 👋
 
