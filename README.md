@@ -52,13 +52,22 @@
 </div>
 ---
 
-## 🌍 Connect
+## ## 🤝 Let's Connect
 
-<div align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <a href="YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="YOUR_KAGGLE">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="45"/>
+  </a>
+</p>
 
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
 
 <div align="center">
 <br>
