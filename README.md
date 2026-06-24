@@ -46,23 +46,19 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoustafaOmarMohammed&theme=tokyonight&hide_border=true" width="48%"/>
 </div>
 ---
+🌍 Connect With Me
 
-##<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://kaggle.com/YOUR_KAGGLE">
-<img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+<div align="center">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://kaggle.com/YOUR_KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
-
+<div align="center">
+<br>
+<i>"Without data, you're just another person with an opinion."</i>
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2E9EF7&height=100&section=footer" />
 
 <div align="center">
 <br>
