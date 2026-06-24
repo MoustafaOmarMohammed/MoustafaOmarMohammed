@@ -62,7 +62,6 @@
   <a href="mailto:YOUR_EMAIL">
     <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
   
 </p>
 
