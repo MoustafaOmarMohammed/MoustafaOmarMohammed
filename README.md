@@ -78,8 +78,3 @@
 
 ---
 
-<div align="center">
-
-⭐ Always learning, always building.
-
-</div>
