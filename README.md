@@ -63,9 +63,9 @@
 <div align="center">
 <br>
 <i>"Without data, you're just another person with an opinion."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2E9EF7&height=100&section=footer" />
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2E9EF7&height=100&section=footer" />
-<div>
 
 
 
