@@ -51,7 +51,7 @@
 
 <p align="center">
   <a href="YOUR_LINKEDIN" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="20" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="20" width="40" />
   </a>
 
   <a href="mailto:YOUR_EMAIL">
