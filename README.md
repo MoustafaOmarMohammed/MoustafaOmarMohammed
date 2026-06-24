@@ -8,9 +8,26 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+## ⚡ Tech Stack
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
+
+<img src="https://img.icons8.com/color/96/power-bi.png" width="60" height="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
+
+<img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="60" height="60"/>
+
+<img src="https://img.icons8.com/color/96/business-report.png" width="60" height="60"/>
+
+</p>
+
+<p align="center">
+Python &nbsp;&nbsp;&nbsp; Power BI &nbsp;&nbsp;&nbsp; SQL &nbsp;&nbsp;&nbsp; Visualization &nbsp;&nbsp;&nbsp; Business
+</p>
+
 
 </div>
 
