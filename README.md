@@ -58,14 +58,12 @@
   <a href="YOUR_LINKEDIN">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  
   <a href="mailto:YOUR_EMAIL">
     <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="YOUR_KAGGLE">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="45"/>
-  </a>
+  
 </p>
 
 
