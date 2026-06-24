@@ -17,8 +17,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
 
 <img src="https://img.icons8.com/color/96/power-bi.png" width="60" height="60"/>
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/c6f6d92b-8b10-4d4a-ac62-e6c0a17926d1" />
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60"/>
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/aa85801f-265b-4124-9913-3e76c518dc59" />
+
 
 <img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="60" height="60"/>
 
