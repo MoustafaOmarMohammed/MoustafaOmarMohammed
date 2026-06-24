@@ -47,17 +47,18 @@
 </div>
 ---
 
-## ## ## 🌐 Connect
+## 🌐 Connect
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+  <a href="YOUR_LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="20" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="45"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
   </a>
 </p>
+
 
 
 
