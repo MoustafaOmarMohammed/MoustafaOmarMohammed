@@ -4,9 +4,11 @@
 
 ### Data Analyst | Power BI Developer
 
-*Turning data into insights.*
+*Transforming data into actionable business insights.*
 
-<br>
+</div>
+
+---
 
 ## ⚡ Tech Stack
 
@@ -25,36 +27,48 @@
 </p>
 
 <p align="center">
-Python &nbsp;&nbsp;&nbsp; Power BI &nbsp;&nbsp;&nbsp; SQL &nbsp;&nbsp;&nbsp; Visualization &nbsp;&nbsp;&nbsp; Business
+Python • Power BI • SQL • Visualization • Business
 </p>
-
-
-</div>
 
 ---
 
-### About Me
+## 👨‍💻 About Me
 
 * 🎓 Computer Science & AI Student
-* 📊 Interested in Data Analytics & BI
-* 🚀 Learning Power BI, SQL, DAX, and Data Modeling
+* 📊 Passionate about Data Analytics & Business Intelligence
+* 🚀 Developing expertise in Power BI, SQL, DAX, and Data Modeling
 
 ---
 
-### GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
 </p>
 
 ---
 
-### Connect
+## 🌐 Connect
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">LinkedIn</a> •
-  <a href="YOUR_KAGGLE">Kaggle</a> •
-  <a href="mailto:YOUR_EMAIL">Email</a>
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="YOUR_KAGGLE">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+<div align="center">
+
+⭐ Always learning, always building.
 
 </div>
