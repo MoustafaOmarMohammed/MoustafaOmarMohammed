@@ -22,7 +22,7 @@
 
 <img src="https://img.icons8.com/color/96/combo-chart--v1.png" width="60" height="60"/>
 
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/71ae6d3e-4869-4ae4-907d-511d2470063b" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/246fd31c-8bdf-43cd-a5df-90212f6e2ce5" />
 
 <img src="https://img.icons8.com/color/96/business-report.png" width="60" height="60"/>
 
