@@ -31,9 +31,8 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Computer Science & AI Student
-* 📊 Passionate about Data Analytics & Business Intelligence
-* 🚀 Developing expertise in Power BI, SQL, DAX, and Data Modeling
+*  B.Sc. in Computer Science & Artificial Intelligence, Cairo University
+*  Artificial Intelligence Graduate
 
 ---
 
